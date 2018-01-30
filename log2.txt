@@ -1,0 +1,1200 @@
+Starting Generator MLE Training...
+epoch 1 : .......... average_train_NLL = 3.0968, oracle_sample_NLL = 9.4467
+epoch 2 : .......... average_train_NLL = 2.6100, oracle_sample_NLL = 9.4323
+epoch 3 : .......... average_train_NLL = 2.2039, oracle_sample_NLL = 9.4409
+epoch 4 : .......... average_train_NLL = 1.9153, oracle_sample_NLL = 9.3937
+epoch 5 : .......... average_train_NLL = 1.7146, oracle_sample_NLL = 9.4262
+epoch 6 : .......... average_train_NLL = 1.5662, oracle_sample_NLL = 9.4174
+epoch 7 : .......... average_train_NLL = 1.4558, oracle_sample_NLL = 9.4209
+epoch 8 : .......... average_train_NLL = 1.3716, oracle_sample_NLL = 9.3967
+epoch 9 : .......... average_train_NLL = 1.3021, oracle_sample_NLL = 9.3894
+epoch 10 : .......... average_train_NLL = 1.2471, oracle_sample_NLL = 9.4402
+epoch 11 : .......... average_train_NLL = 1.1973, oracle_sample_NLL = 9.4394
+epoch 12 : .......... average_train_NLL = 1.1565, oracle_sample_NLL = 9.4071
+epoch 13 : .......... average_train_NLL = 1.1193, oracle_sample_NLL = 9.4185
+epoch 14 : .......... average_train_NLL = 1.0850, oracle_sample_NLL = 9.4120
+epoch 15 : .......... average_train_NLL = 1.0579, oracle_sample_NLL = 9.4382
+epoch 16 : .......... average_train_NLL = 1.0307, oracle_sample_NLL = 9.3774
+epoch 17 : .......... average_train_NLL = 1.0034, oracle_sample_NLL = 9.4261
+epoch 18 : .......... average_train_NLL = 0.9817, oracle_sample_NLL = 9.3997
+epoch 19 : .......... average_train_NLL = 0.9633, oracle_sample_NLL = 9.3913
+epoch 20 : .......... average_train_NLL = 0.9470, oracle_sample_NLL = 9.4188
+epoch 21 : .......... average_train_NLL = 0.9310, oracle_sample_NLL = 9.4090
+epoch 22 : .......... average_train_NLL = 0.9164, oracle_sample_NLL = 9.4568
+epoch 23 : .......... average_train_NLL = 0.9051, oracle_sample_NLL = 9.3957
+epoch 24 : .......... average_train_NLL = 0.8893, oracle_sample_NLL = 9.4044
+epoch 25 : .......... average_train_NLL = 0.8825, oracle_sample_NLL = 9.4374
+epoch 26 : .......... average_train_NLL = 0.8698, oracle_sample_NLL = 9.4101
+epoch 27 : .......... average_train_NLL = 0.8597, oracle_sample_NLL = 9.4121
+epoch 28 : .......... average_train_NLL = 0.8522, oracle_sample_NLL = 9.4288
+epoch 29 : .......... average_train_NLL = 0.8477, oracle_sample_NLL = 9.4205
+epoch 30 : .......... average_train_NLL = 0.8356, oracle_sample_NLL = 9.4261
+epoch 31 : .......... average_train_NLL = 0.8249, oracle_sample_NLL = 9.4294
+epoch 32 : .......... average_train_NLL = 0.8222, oracle_sample_NLL = 9.4612
+epoch 33 : .......... average_train_NLL = 0.8143, oracle_sample_NLL = 9.4082
+epoch 34 : .......... average_train_NLL = 0.8029, oracle_sample_NLL = 9.3952
+epoch 35 : .......... average_train_NLL = 0.8020, oracle_sample_NLL = 9.4475
+epoch 36 : .......... average_train_NLL = 0.7989, oracle_sample_NLL = 9.4037
+epoch 37 : .......... average_train_NLL = 0.7941, oracle_sample_NLL = 9.3917
+epoch 38 : .......... average_train_NLL = 0.7856, oracle_sample_NLL = 9.3760
+epoch 39 : .......... average_train_NLL = 0.7742, oracle_sample_NLL = 9.3892
+epoch 40 : .......... average_train_NLL = 0.7721, oracle_sample_NLL = 9.3917
+epoch 41 : .......... average_train_NLL = 0.7738, oracle_sample_NLL = 9.4202
+epoch 42 : .......... average_train_NLL = 0.7727, oracle_sample_NLL = 9.3901
+epoch 43 : .......... average_train_NLL = 0.7731, oracle_sample_NLL = 9.4296
+epoch 44 : .......... average_train_NLL = 0.7712, oracle_sample_NLL = 9.4045
+epoch 45 : .......... average_train_NLL = 0.7682, oracle_sample_NLL = 9.4511
+epoch 46 : .......... average_train_NLL = 0.7605, oracle_sample_NLL = 9.4208
+epoch 47 : .......... average_train_NLL = 0.7496, oracle_sample_NLL = 9.4586
+epoch 48 : .......... average_train_NLL = 0.7447, oracle_sample_NLL = 9.4262
+epoch 49 : .......... average_train_NLL = 0.7442, oracle_sample_NLL = 9.4447
+epoch 50 : .......... average_train_NLL = 0.7447, oracle_sample_NLL = 9.3918
+epoch 51 : .......... average_train_NLL = 0.7425, oracle_sample_NLL = 9.4375
+epoch 52 : .......... average_train_NLL = 0.7445, oracle_sample_NLL = 9.4259
+epoch 53 : .......... average_train_NLL = 0.7365, oracle_sample_NLL = 9.4199
+epoch 54 : .......... average_train_NLL = 0.7358, oracle_sample_NLL = 9.3991
+epoch 55 : .......... average_train_NLL = 0.7238, oracle_sample_NLL = 9.4141
+epoch 56 : .......... average_train_NLL = 0.7221, oracle_sample_NLL = 9.4121
+epoch 57 : .......... average_train_NLL = 0.7201, oracle_sample_NLL = 9.4255
+epoch 58 : .......... average_train_NLL = 0.7148, oracle_sample_NLL = 9.3897
+epoch 59 : .......... average_train_NLL = 0.7123, oracle_sample_NLL = 9.4122
+epoch 60 : .......... average_train_NLL = 0.7210, oracle_sample_NLL = 9.4129
+epoch 61 : .......... average_train_NLL = 0.7297, oracle_sample_NLL = 9.4346
+epoch 62 : .......... average_train_NLL = 0.7287, oracle_sample_NLL = 9.4223
+epoch 63 : .......... average_train_NLL = 0.7342, oracle_sample_NLL = 9.4358
+epoch 64 : .......... average_train_NLL = 0.7369, oracle_sample_NLL = 9.4429
+epoch 65 : .......... average_train_NLL = 0.7510, oracle_sample_NLL = 9.4184
+epoch 66 : .......... average_train_NLL = 0.7440, oracle_sample_NLL = 9.4422
+epoch 67 : .......... average_train_NLL = 0.7317, oracle_sample_NLL = 9.3880
+epoch 68 : .......... average_train_NLL = 0.7303, oracle_sample_NLL = 9.4541
+epoch 69 : .......... average_train_NLL = 0.7134, oracle_sample_NLL = 9.4171
+epoch 70 : .......... average_train_NLL = 0.7052, oracle_sample_NLL = 9.4373
+epoch 71 : .......... average_train_NLL = 0.7080, oracle_sample_NLL = 9.4199
+epoch 72 : .......... average_train_NLL = 0.7003, oracle_sample_NLL = 9.4080
+epoch 73 : .......... average_train_NLL = 0.7029, oracle_sample_NLL = 9.4116
+epoch 74 : .......... average_train_NLL = 0.7012, oracle_sample_NLL = 9.4192
+epoch 75 : .......... average_train_NLL = 0.7040, oracle_sample_NLL = 9.4024
+epoch 76 : .......... average_train_NLL = 0.6986, oracle_sample_NLL = 9.3911
+epoch 77 : .......... average_train_NLL = 0.6878, oracle_sample_NLL = 9.3827
+epoch 78 : .......... average_train_NLL = 0.6845, oracle_sample_NLL = 9.4162
+epoch 79 : .......... average_train_NLL = 0.6863, oracle_sample_NLL = 9.4223
+epoch 80 : .......... average_train_NLL = 0.6847, oracle_sample_NLL = 9.4005
+epoch 81 : .......... average_train_NLL = 0.6933, oracle_sample_NLL = 9.4276
+epoch 82 : .......... average_train_NLL = 0.7030, oracle_sample_NLL = 9.3712
+epoch 83 : .......... average_train_NLL = 0.7038, oracle_sample_NLL = 9.4462
+epoch 84 : .......... average_train_NLL = 0.7216, oracle_sample_NLL = 9.4585
+epoch 85 : .......... average_train_NLL = 0.7276, oracle_sample_NLL = 9.4189
+epoch 86 : .......... average_train_NLL = 0.7196, oracle_sample_NLL = 9.4404
+epoch 87 : .......... average_train_NLL = 0.7039, oracle_sample_NLL = 9.4191
+epoch 88 : .......... average_train_NLL = 0.7156, oracle_sample_NLL = 9.4214
+epoch 89 : .......... average_train_NLL = 0.7080, oracle_sample_NLL = 9.4671
+epoch 90 : .......... average_train_NLL = 0.6922, oracle_sample_NLL = 9.4365
+epoch 91 : .......... average_train_NLL = 0.6889, oracle_sample_NLL = 9.4124
+epoch 92 : .......... average_train_NLL = 0.6964, oracle_sample_NLL = 9.4367
+epoch 93 : .......... average_train_NLL = 0.6923, oracle_sample_NLL = 9.4232
+epoch 94 : .......... average_train_NLL = 0.6926, oracle_sample_NLL = 9.4273
+epoch 95 : .......... average_train_NLL = 0.6872, oracle_sample_NLL = 9.3865
+epoch 96 : .......... average_train_NLL = 0.6972, oracle_sample_NLL = 9.4101
+epoch 97 : .......... average_train_NLL = 0.6897, oracle_sample_NLL = 9.3837
+epoch 98 : .......... average_train_NLL = 0.6771, oracle_sample_NLL = 9.4273
+epoch 99 : .......... average_train_NLL = 0.6737, oracle_sample_NLL = 9.4776
+epoch 100 : .......... average_train_NLL = 0.6754, oracle_sample_NLL = 9.3982
+
+Starting Discriminator Training...
+d-step 1 epoch 1 : .......... average_loss = 0.0503, train_acc = 0.9814, val_acc = 0.4950
+d-step 1 epoch 2 : .......... average_loss = 0.0031, train_acc = 0.9994, val_acc = 0.4950
+d-step 1 epoch 3 : .......... average_loss = 0.0007, train_acc = 1.0000, val_acc = 0.4950
+d-step 2 epoch 1 : .......... average_loss = 0.0029, train_acc = 0.9994, val_acc = 0.4950
+d-step 2 epoch 2 : .......... average_loss = 0.0005, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 2 epoch 3 : .......... average_loss = 0.0003, train_acc = 1.0000, val_acc = 0.4950
+d-step 3 epoch 1 : .......... average_loss = 0.0003, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0025, train_acc = 0.9992, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0013, train_acc = 0.9996, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 6 epoch 1 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 6 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 6 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 7 epoch 1 : .......... average_loss = 0.0003, train_acc = 0.9998, val_acc = 0.5000
+d-step 7 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 7 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 8 epoch 1 : .......... average_loss = 0.0007, train_acc = 0.9998, val_acc = 0.5000
+d-step 8 epoch 2 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 8 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 9 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 9 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 9 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 10 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 10 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 10 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 11 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 11 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 11 epoch 3 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 12 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 12 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 12 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 13 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 13 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 13 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 14 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 14 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 14 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 15 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 15 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 15 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 16 epoch 1 : .......... average_loss = 0.0002, train_acc = 0.9998, val_acc = 0.5000
+d-step 16 epoch 2 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 16 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 17 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 17 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 17 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 18 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 18 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 18 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 19 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 19 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 19 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 20 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 20 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 20 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 21 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 21 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 21 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 22 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 22 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 22 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 23 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 23 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 23 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 24 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 24 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 24 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 25 epoch 1 : .......... average_loss = 0.0017, train_acc = 0.9994, val_acc = 0.5000
+d-step 25 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 25 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 26 epoch 1 : .......... average_loss = 0.0014, train_acc = 0.9998, val_acc = 0.5000
+d-step 26 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 26 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 27 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 27 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 27 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 28 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 28 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 28 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 29 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 29 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 29 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 30 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 30 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 30 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 31 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 31 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 31 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 32 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 32 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 32 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 33 epoch 1 : .......... average_loss = 0.0005, train_acc = 0.9998, val_acc = 0.5000
+d-step 33 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 33 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 34 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 34 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 34 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 35 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 35 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 35 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 36 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 36 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 36 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 37 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 37 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 37 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 38 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 38 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 38 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 39 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 39 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 39 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 40 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 40 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 40 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 41 epoch 1 : .......... average_loss = 0.0015, train_acc = 0.9998, val_acc = 0.5000
+d-step 41 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 41 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 42 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 42 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 42 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 43 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 43 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 43 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 44 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 44 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 44 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 45 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 45 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 45 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 46 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 46 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 46 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 47 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 47 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 47 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 48 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 48 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 48 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 49 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 49 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 49 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 50 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 50 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 50 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+Starting Adversarial Training...
+
+Initial Oracle Sample Loss : 9.4074
+
+--------
+EPOCH 1
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3923
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 2
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4179
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 3
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4509
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0036, train_acc = 0.9992, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0015, train_acc = 0.9998, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 4
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4139
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 5
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4328
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 6
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4316
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 7
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4063
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 8
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4533
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0003, train_acc = 0.9998, val_acc = 0.5000
+
+d-step 4 epoch 2 : .......... average_loss = 0.0002, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 9
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4061
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0003, train_acc = 0.9998, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 10
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3570
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 11
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4287
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 12
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3982
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 13
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3920
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 14
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4226
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 15
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4292
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 16
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4137
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0005, train_acc = 0.9998, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 17
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4251
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 18
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4322
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 19
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4104
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0013, train_acc = 0.9998, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 20
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4539
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 21
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4079
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 22
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3852
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0001, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 23
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4237
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 24
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4024
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 25
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4169
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 26
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4086
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 27
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4299
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.4950
+
+--------
+EPOCH 28
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3891
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 29
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3892
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 30
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.3884
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 31
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4059
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 32
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4002
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 33
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4053
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 34
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4338
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 35
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4624
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 36
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4095
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 37
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4498
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 38
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4457
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 39
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4032
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 40
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4036
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 3 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 4 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 1 : .......... average_loss = 0.0005, train_acc = 0.9998, val_acc = 0.5000
+d-step 5 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 5 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
+--------
+EPOCH 41
+--------
+
+Adversarial Training Generator :  oracle_sample_NLL = 9.4106
+
+Adversarial Training Discriminator : 
+d-step 1 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 1 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 1 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 2 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+d-step 2 epoch 3 : .......... average_loss = 0.0000, train_acc = 1.0000, val_acc = 0.5000
+
